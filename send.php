@@ -1,8 +1,8 @@
 <?php
 
 function telegram($mail, $subject, $message){
-	$key = "botXXXXXXXXX:AABBCCDDEEFFGGHHIIJJKKLLMMNNOO";
-	$chat_id = "123456789";
+	$key = "7069196597:AAHKGrkqunH7W-YVkjg7AJAEoG0P0JOWmu8";
+	$chat_id = "-1001932916633";
 
 	if(isset($mail) && isset($subject) && isset($message)){ 
 		
